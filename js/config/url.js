@@ -1,0 +1,1 @@
+export let urlAPI = "https://uts-jul2024-547e81327e27.herokuapp.com/bodomoal";
