@@ -1,78 +1,12 @@
 export let isiTabel = 
 `
 <tr>
-                                      <th scope="col">ID</th>
-                                      <th scope="col">Merek</th>
-                                      <th scope="col">Model</th>
-                                      <th scope="col">Tipe</th>
-                                      <th scope="col">Harga</th>
-                                      <th scope="col">Warna</th>
-                                      <th scope="col">Tahun_Rilis</th>
-                                    </tr>
-                                  </thead>
-                                  <tbody>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                    </tr>
-                                    <tr>
-                                      <th scope="row"></th>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                                      <td></td>
-                    
-                                    </tr>
-                                    `
+<th scope="row">#ID</th>
+<td>#Merek</td>
+<td>#Model</td>
+<td>#Tipe</td>
+<td>#Harga</td>
+<td>#Warna</td>
+<td>#Tahun</td>
+</tr>
+`
